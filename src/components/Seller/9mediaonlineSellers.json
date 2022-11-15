@@ -1,0 +1,266 @@
+{
+   "contact_email": "info@9mediaonline.com",
+   "contact_address": "10 Anson Road| #22-02 International Plaza | Singapore",
+   "version": "1.0",
+   "identifiers": [],
+   "sellers": [
+     {
+       "seller_id": "110221",
+       "seller_type": "PUBLISHER",
+       "domain": "stormcastcinema.com",
+       "name": "stormcastcinema.com"
+     },
+     {
+       "seller_id": "11813",
+       "seller_type": "PUBLISHER",
+       "domain": "armchairtourist.com",
+       "name": "armchairtourist.com"
+     },
+     {
+       "seller_id": "12151",
+       "seller_type": "PUBLISHER",
+       "domain": "loop.tv",
+       "name": "loop.tv"
+     },
+     {
+       "seller_id": "12153",
+       "seller_type": "PUBLISHER",
+       "domain": "localbtv.com",
+       "name": "localbtv.com"
+     },
+     {
+       "seller_id": "12215",
+       "seller_type": "PUBLISHER",
+       "domain": "avo.tv",
+       "name": "avo.tv"
+     },
+     {
+       "seller_id": "12978",
+       "seller_type": "PUBLISHER",
+       "domain": "lightcast.com",
+       "name": "lightcast.com"
+     },
+     {
+       "seller_id": "13122",
+       "seller_type": "PUBLISHER",
+       "domain": "mlb.com",
+       "name": "mlb.com"
+     },
+     {
+       "seller_id": "13571",
+       "seller_type": "PUBLISHER",
+       "domain": "megadilla.co",
+       "name": "megadilla.co"
+     },
+     {
+       "seller_id": "14151",
+       "seller_type": "PUBLISHER",
+       "domain": "nosey.com",
+       "name": "nosey.com"
+     },
+     {
+       "seller_id": "14193",
+       "seller_type": "PUBLISHER",
+       "domain": "hideout.co",
+       "name": "hideout.co"
+     },
+     {
+       "seller_id": "14229",
+       "seller_type": "PUBLISHER",
+       "domain": "adviddo.com",
+       "name": "adviddo.com"
+     },
+     {
+       "seller_id": "15202",
+       "seller_type": "PUBLISHER",
+       "domain": "afrolandtv.com",
+       "name": "afrolandtv.com"
+     },
+     {
+       "seller_id": "16125",
+       "seller_type": "PUBLISHER",
+       "domain": "plexpeer.com",
+       "name": "plexpeer.com"
+     },
+     {
+       "seller_id": "16135",
+       "seller_type": "PUBLISHER",
+       "domain": "1080pmedia.com",
+       "name": "1080pmedia.com"
+     },
+     {
+       "seller_id": "16811",
+       "seller_type": "PUBLISHER",
+       "domain": "pharoscode.co",
+       "name": "pharoscode.co"
+     },
+     {
+       "seller_id": "16815",
+       "seller_type": "PUBLISHER",
+       "domain": "plex.tv",
+       "name": "plex.tv"
+     },
+     {
+       "seller_id": "18978",
+       "seller_type": "PUBLISHER",
+       "domain": "rsbnetwork.com",
+       "name": "rsbnetwork.com"
+     },
+     {
+       "seller_id": "19113",
+       "seller_type": "PUBLISHER",
+       "domain": "sambanetworks.com",
+       "name": "sambanetworks.com"
+     },
+     {
+       "seller_id": "19131",
+       "seller_type": "PUBLISHER",
+       "domain": "smartlinetv.com",
+       "name": "smartlinetv.com"
+     },
+     {
+       "seller_id": "19151",
+       "seller_type": "PUBLISHER",
+       "domain": "sootix.tv",
+       "name": "sootix.tv"
+     },
+     {
+       "seller_id": "19201",
+       "seller_type": "PUBLISHER",
+       "domain": "stormcastcinema.com",
+       "name": "stormcastcinema.com"
+     },
+     {
+       "seller_id": "192018",
+       "seller_type": "PUBLISHER",
+       "domain": "actualidadradio.com",
+       "name": "actualidadradio.com"
+     },
+     {
+       "seller_id": "19211",
+       "seller_type": "PUBLISHER",
+       "domain": "sunmedia.stream",
+       "name": "sunmedia.stream"
+     },
+     {
+       "seller_id": "1921223",
+       "seller_type": "PUBLISHER",
+       "domain": "bplnt.com",
+       "name": "bplnt.com"
+     },
+     {
+       "seller_id": "19251",
+       "seller_type": "PUBLISHER",
+       "domain": "sbtv.com",
+       "name": "sbtv.com"
+     },
+     {
+       "seller_id": "192514",
+       "seller_type": "PUBLISHER",
+       "domain": "darkroom.film",
+       "name": "darkroom.film"
+     },
+     {
+       "seller_id": "1a34c",
+       "seller_type": "INTERMEDIARY",
+       "domain": "9mo.in",
+       "name": "9mo"
+     },
+     {
+       "seller_id": "20189",
+       "seller_type": "PUBLISHER",
+       "domain": "darkmattertv.com",
+       "name": "darkmattertv.com"
+     },
+     {
+       "seller_id": "20221",
+       "seller_type": "PUBLISHER",
+       "domain": "tvsourcer.com",
+       "name": "tvsourcer.com"
+     },
+     {
+       "seller_id": "20312",
+       "seller_type": "PUBLISHER",
+       "domain": "tcl.com",
+       "name": "tcl.com"
+     },
+     {
+       "seller_id": "21143",
+       "seller_type": "PUBLISHER",
+       "domain": "unclehowieradio.com",
+       "name": "unclehowieradio.com"
+     },
+     {
+       "seller_id": "22120",
+       "seller_type": "PUBLISHER",
+       "domain": "butaca.tv",
+       "name": "butaca.tv"
+     },
+     {
+       "seller_id": "22121",
+       "seller_type": "PUBLISHER",
+       "domain": "vlogbox.com",
+       "name": "vlogbox.com"
+     },
+     {
+       "seller_id": "22922",
+       "seller_type": "PUBLISHER",
+       "domain": "iptvsolutionsgroup.com",
+       "name": "iptvsolutionsgroup.com"
+     },
+     {
+       "seller_id": "23211",
+       "seller_type": "PUBLISHER",
+       "domain": "wurl.com",
+       "name": "wurl.com"
+     },
+     {
+       "seller_id": "23926",
+       "seller_type": "PUBLISHER",
+       "domain": "wisedigital.media",
+       "name": "wisedigital.media"
+     },
+     {
+       "seller_id": "29147",
+       "seller_type": "PUBLISHER",
+       "domain": "bingenetworks.tv",
+       "name": "bingenetworks.tv"
+     },
+     {
+       "seller_id": "31291",
+       "seller_type": "PUBLISHER",
+       "domain": "clipmeupmedia.com",
+       "name": "clipmeupmedia.com"
+     },
+     {
+       "seller_id": "44420",
+       "seller_type": "PUBLISHER",
+       "domain": "ddduniversal.com",
+       "name": "ddduniversal.com"
+     },
+     {
+       "seller_id": "45351",
+       "seller_type": "PUBLISHER",
+       "domain": "makeitso.studio",
+       "name": "makeitso.studio"
+     },
+     {
+       "seller_id": "52215",
+       "seller_type": "PUBLISHER",
+       "domain": "21secolo.news",
+       "name": "21secolo.news"
+     },
+     {
+       "seller_id": "69121",
+       "seller_type": "PUBLISHER",
+       "domain": "actvlv.com",
+       "name": "actvlv.com"
+     },
+     {
+       "seller_id": "691213",
+       "seller_type": "PUBLISHER",
+       "domain": "filmzie.com",
+       "name": "filmzie.com"
+     }
+   ]
+ }

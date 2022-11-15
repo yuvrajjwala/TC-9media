@@ -1,0 +1,125 @@
+.contact-container{
+   padding: 3px;
+   background: linear-gradient(to right, #00888F, #580053);
+   border-radius: 10px;
+   margin-left: 10vw;
+   margin-bottom: 100px;
+}
+
+.contact-container{
+   width: 45vw;
+   max-width: 850px;
+   min-width: 300px;
+}
+.contat-form-container{
+   width: 100%;
+   background-color: white;
+   border-radius: 10px;
+}
+.contat-form-container input{
+   width: 95%;
+   background-color: #F0F0F0;
+   border: none;
+   padding: 15px;
+   border-radius: 10px;
+   margin-bottom: 20px;
+   outline: #00888F;
+}
+
+.form-contact-child{
+   padding-top:50px ;
+   padding-bottom: 50px;
+}
+.form-contact-child h4{
+   font-size: 2rem;
+   text-align: center;
+   margin-bottom: 80px;
+}
+.form-contact-child{
+   width: 80%;
+   display: block;
+   margin: auto;
+}
+.contat-form-container p{
+   font-family: Inter;
+   font-size: 1.2rem;
+   font-weight: 600;
+   line-height: 24px;
+   letter-spacing: -0.5px;
+   text-align: left;
+   opacity: 0.4;
+
+}
+#hearAboutUs{
+   height: 50px;
+   text-overflow: wrap;
+}
+.contat-form-container select{
+   width: 98%;
+   background-color: #F0F0F0;
+   border: none;
+   padding: 15px;
+   border-radius: 10px;
+}
+.form-container-contact-parent{
+   position: relative;
+   bottom: 310px;
+}
+.contact-body-img img{
+   position: absolute;
+   z-index: -1;
+   width: 70vw;
+   right:0;
+   top: 300px;
+}
+.contact-submit-form{
+   background: linear-gradient(to right, #00888F, #580053);
+   border-radius: 10px;
+   border: none;
+   color: white;
+   padding: 10px 40px;
+   display: block;
+   font-size: 1.3rem;
+   margin-top: 50px;
+   margin-bottom: 20px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.contact-container h6{
+   font-size: 0.85rem;
+   opacity: 0.4;
+   text-align: center;
+}
+.contact-container a{
+   color: black;
+}
+
+
+@media screen and (max-width: 1000px) {
+   .contact-container{
+      width: 90vw;
+      max-width: 850px;
+      min-width: auto;
+   }
+   .form-container-contact-parent{
+      position: relative;
+      bottom: 0px;
+   }
+   .contact-container{
+      margin:auto;
+      position: relative;
+      bottom: 250px;
+   }
+   .contact-body-img{
+      display: none;
+   }
+   .contat-form-container select {
+      width: 100%;
+   }
+   #arr5-2-1 {
+      margin-bottom: 16px;
+  }
+  .contat-form-container input {
+   width: 90%;
+  }
+ }

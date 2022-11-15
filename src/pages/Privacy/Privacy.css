@@ -1,0 +1,32 @@
+#main-privacy a{
+   color: rgb(14, 137, 190);
+   text-decoration: none;
+   
+}
+#main-privacy {
+   color: rgb(84, 84, 84);
+   /* background-color: white;
+   position: absolute;
+   height: 100%;
+   top: 150px; */
+   padding: 10vw;
+   padding-top: 0px !important;
+}
+#privacy-heading{
+    background: -webkit-linear-gradient(#0098bb 18.77%, #5c0057 83.27%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+@media only screen and (max-width: 600px) {
+   #main-privacy {
+      color: rgb(84, 84, 84);
+      /* background-color: white;
+      position: absolute;
+      height: 100%;
+      top: 150px; */
+      padding: 5vw !important;
+      padding-top: 0px !important;
+      position: relative;
+    bottom: 200px;
+   }
+ }

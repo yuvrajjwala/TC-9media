@@ -1,0 +1,36 @@
+.company-img-container{
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+  
+   margin-bottom: 50px;
+   width: 80vw;
+   margin: auto;
+   margin-top: 80px;
+   text-align: justify;
+   justify-content: space-between;
+   margin-bottom: 80px;
+}
+.company-img-container img{
+   height: 60px;
+   margin: 50px;
+}
+#asana, #asana1{
+   height: 40px;
+}
+
+
+
+@media screen and (max-width: 1000px){
+   .company-img-container img {
+      height: 39px;
+      margin: 15px;
+   }
+   .company-img-container{
+      width: 102vw;
+      justify-content: space-evenly;
+   }
+   #asana, #asana1 {
+      height: 23px;
+  }
+}

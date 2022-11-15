@@ -1,0 +1,209 @@
+.App1 {
+  margin-bottom: 100px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+
+.App1::before {
+  content: '';
+  position: absolute;
+  height: 80%;
+  opacity: 0.5;
+  width: 100%;
+  /* background: url('../../assets/img/home/Group52.png'); */
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+}
+
+.slider-wrapper {
+  width: 90%;
+  margin: auto;
+}
+
+.slick-slide {
+  text-align: center;
+  position: relative;
+}
+
+.slick-slide:focus {
+  outline: none;
+}
+
+.slick-slide-title {
+  text-transform: capitalize;
+}
+
+.slick-slide-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 13px 27px -5px hsla(240, 30.1%, 28%, 0.25), 0 8px 16px -8px hsla(0, 0%, 0%, 0.3),
+    0 -6px 16px -6px hsla(0, 0%, 0%, 0.03);
+  position: relative;
+}
+
+.slick-slide-label {
+  color: #fff;
+  padding: 10px;
+  position: absolute;
+  left: 0px;
+  font-size: 1.5em;
+  bottom: 0px;
+  width: 100%;
+}
+
+#img-test {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  z-index: -999;
+  height: 90%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #777777;
+}
+
+.slide {
+  transform: scale(0.9);
+  transition: transform 300ms;
+  opacity: 0.8;
+  transition-duration: 1s;
+  background: #FEFEFE;
+  /* Natural Shadow */
+  /* width: 40vw; */
+  box-shadow: 0px 19px 33px rgba(111, 109, 113, 0.13);
+  border-radius: 20px;
+  /* width: 813px;
+  height: 552px; */
+  box-sizing: border-box;
+}
+
+.activeSlide {
+  transform: scale(0.95);
+  opacity: 1;
+  transition-duration: 1s;
+}
+
+.slick-list {
+  padding-bottom: 30px !important;
+}
+
+.slick-dots {
+  bottom: -50px;
+}
+
+
+
+.cardImg {
+  border-radius: 25px;
+  width: 107px;
+  height: 107px;
+}
+
+.headBold {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+
+
+  /* Reading / Black */
+
+  color: #010101;
+}
+
+.headLight {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 170%;
+  /* identical to box height, or 48px */
+
+
+  /* Reading / Grey */
+
+  color: #6F6D71;
+}
+
+.cardBody {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 170%;
+  /* or 32px */
+
+  text-align: justify;
+
+  /* Reading / Grey */
+
+  color: #6F6D71;
+}
+
+.card {
+  padding: 2rem;
+  background-color: white;
+  border-radius: 20px;
+  /* border: 3px solid; border-image-source: linear-gradient(113.65deg, rgba(0, 136, 143, 0) 1.52%, #00888F 28.78%, #770370 100%); */
+  /* width: 40vw; */
+}
+
+.card::before {
+  content: '';
+  width: calc(100% + 6px);
+  height: calc(100% + 6px);
+  top: -3px;
+  left: -3px;
+  border-radius: 20px;
+  z-index: -1;
+  position: absolute;
+  background: linear-gradient(113.65deg, rgba(0, 136, 143, 0) 1.52%, #00888F 28.78%, #770370 100%);
+  ;
+}
+
+.cardHead {
+  display: flex;
+  align-items: center;
+  margin: 1rem 0px;
+}
+
+.headContent {
+  margin: 0px 2rem;
+}
+
+.slick-track {
+  display: flex;
+  align-items: center;
+}
+
+@media only screen and (max-width:1100px) {
+  .headLight {
+    font-size: 20px;
+  }
+
+  .headBold {
+    font-size: 25px;
+    line-height: 30px;
+  }
+
+  .cardBody {
+    font-size: 15px;
+    line-height: 150%;
+  }
+
+  .cardImg {
+    width: 80px;
+    height: 80px;
+  }
+
+  #img-test{
+    width: 100%;
+  }
+}
